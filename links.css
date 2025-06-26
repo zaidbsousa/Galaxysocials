@@ -16,7 +16,7 @@ body {
     align-items: center;
     min-height: 100vh;
     background-color: var(--main-color);
-    color: #f8fafcab;
+    color: var(--text-light);
     overflow-x: hidden;
     position: relative;
 }
@@ -247,6 +247,7 @@ body {
         /* gap: 0.75rem; */
         align-items: center;
         font-size: 0.8rem;
+        color: #f8fafcab;
     }
     .links-container {
         box-sizing: border-box;
