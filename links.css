@@ -224,6 +224,9 @@ body {
     .link-button {
         font-size: 0.95rem;
     }
+    .links-header p {
+        font-size: 0.9rem;
+    }
 
     .links-footer {
         gap: 1.5rem;
